@@ -32,8 +32,8 @@ The objective of our project is to predict the occurrence of breast cancer with 
 <h3>Implementation</h3>
 
 <div float=left>
-  <img src="https://user-images.githubusercontent.com/46235752/156233699-7aa7e1d8-904a-4d40-94a3-f996c417b5bd.png" width="500" height="300">
-  <img src="https://user-images.githubusercontent.com/46235752/156233721-60321870-ed07-42c1-99d6-2ea534306923.png" width="500" height="300">
+  <img src="https://user-images.githubusercontent.com/46235752/156233699-7aa7e1d8-904a-4d40-94a3-f996c417b5bd.png" width="400" height="200">
+  <img src="https://user-images.githubusercontent.com/46235752/156233721-60321870-ed07-42c1-99d6-2ea534306923.png" width="400" height="200">
 </div>
 
 <br/><br/><br/>
